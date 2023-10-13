@@ -1,5 +1,7 @@
 # python-challenge
 
+Grade: 95/100
+
 # Unit 2 | Homework Assignment: Automate Your Day Job with Python
 
 ## Background
